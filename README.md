@@ -34,5 +34,5 @@ This Power BI dashboard analyzes sales, customers, products, and revenue trends 
 
 ## Author
 
-Your Name
+SYED AKHIB L
 Aspiring Data Analyst
